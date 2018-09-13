@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PTSDataDecimating", "PTSDataDecimating\PTSDataDecimating.vcxproj", "{735AB5F3-7F7C-4C62-AE03-DAFF33D8DEFE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{735AB5F3-7F7C-4C62-AE03-DAFF33D8DEFE}.Debug|x64.ActiveCfg = Debug|x64
+		{735AB5F3-7F7C-4C62-AE03-DAFF33D8DEFE}.Debug|x64.Build.0 = Debug|x64
+		{735AB5F3-7F7C-4C62-AE03-DAFF33D8DEFE}.Debug|x86.ActiveCfg = Debug|Win32
+		{735AB5F3-7F7C-4C62-AE03-DAFF33D8DEFE}.Debug|x86.Build.0 = Debug|Win32
+		{735AB5F3-7F7C-4C62-AE03-DAFF33D8DEFE}.Release|x64.ActiveCfg = Release|x64
+		{735AB5F3-7F7C-4C62-AE03-DAFF33D8DEFE}.Release|x64.Build.0 = Release|x64
+		{735AB5F3-7F7C-4C62-AE03-DAFF33D8DEFE}.Release|x86.ActiveCfg = Release|Win32
+		{735AB5F3-7F7C-4C62-AE03-DAFF33D8DEFE}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {219745B1-BBF0-4AFE-B5EC-F7A97BF4462D}
+	EndGlobalSection
+EndGlobal
